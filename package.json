@@ -1,0 +1,17 @@
+{
+  "name": "tweetmonkey",
+  "version": "1.0.0",
+  "description": "Just trying to write Shakespeare",
+  "main": "config.js",
+  "dependencies": {
+    "alea": "0.0.9",
+    "twitter": "^1.7.1",
+    "wordfilter": "^0.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TomLum",
+  "license": "ISC"
+}
